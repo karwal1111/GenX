@@ -35,7 +35,7 @@ Projected Annual Savings: $${annualSavings.toLocaleString()}
 Estimated Payback Period: ${paybackMonths} months`;
 
   const handleSendToWhatsApp = () => {
-    const whatsappNumber = '15550192834';
+    const whatsappNumber = '9779381920';
     const text = `Hi GenX team, I calculated an AI ROI estimate for my company (${inputs.industry}):
 Target Automation: ${inputs.automationLevel}%
 Estimated Annual Savings: $${annualSavings.toLocaleString()}
