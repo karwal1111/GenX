@@ -36,7 +36,7 @@ export const BlogPostModal: React.FC<BlogPostModalProps> = ({
     setTimeout(() => setCopied(false), 2000);
   };
 
-  const whatsappNumber = '15550192834';
+  const whatsappNumber = '9779381920';
   const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(
     `Hi GenX team, I read your article "${post.title}" and would like to discuss implementing similar AI strategies.`
   )}`;
