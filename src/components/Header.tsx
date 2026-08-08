@@ -39,7 +39,7 @@ export const Header: React.FC<HeaderProps> = ({
     }
   };
 
-  const whatsappNumber = '15550192834'; // Dedicated consultancy WhatsApp line
+  const whatsappNumber = '9779381920'; // Dedicated consultancy WhatsApp line
   const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(
     'Hi GenX Technologies team, I am interested in discussing an AI/ML consulting opportunity for my business.'
   )}`;
