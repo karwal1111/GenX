@@ -4,7 +4,7 @@ import { MessageSquare, X, ArrowRight, ExternalLink, Sparkles } from 'lucide-rea
 
 export const WhatsAppFloatingButton: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
-  const whatsappNumber = '15550192834';
+  const whatsappNumber = '9779381920';
 
   const quickMessages = [
     'I want to discuss a custom LLM & RAG project.',
