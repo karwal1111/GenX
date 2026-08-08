@@ -16,7 +16,7 @@ export const Hero: React.FC<HeroProps> = ({
   onCalculateROI,
   onOpenConsultation,
 }) => {
-  const whatsappNumber = '15550192834';
+  const whatsappNumber = '9779381920';
   const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(
     'Hello GenX Technologies, I would like to explore custom AI consulting opportunities for my company.'
   )}`;
