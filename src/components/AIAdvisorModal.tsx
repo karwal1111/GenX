@@ -112,7 +112,7 @@ Expected Architecture: ${roadmap.suggestedArchitecture}
 Estimated ROI: ${roadmap.estimatedROI}
 I would like to schedule a call to discuss implementing this!`;
 
-    const whatsappNumber = '15550192834';
+    const whatsappNumber = '9779381920';
     window.open(`https://wa.me/${whatsappNumber}?text=${encodeURIComponent(text)}`, '_blank');
   };
 
