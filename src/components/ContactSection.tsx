@@ -99,7 +99,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({
     }
   };
 
-  const whatsappNumber = '15550192834';
+  const whatsappNumber = '9779381920';
   
   const getWhatsAppPresetUrl = (topicMessage: string) => {
     return `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(topicMessage)}`;
